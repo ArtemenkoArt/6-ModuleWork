@@ -1,0 +1,12 @@
+d:\Project\A-level\_Module_05\20190829_6Module\6-ModuleWork\Module.Web\Module.Data\bin\Debug\Module.Data.dll.config
+d:\Project\A-level\_Module_05\20190829_6Module\6-ModuleWork\Module.Web\Module.Data\bin\Debug\Module.Data.dll
+d:\Project\A-level\_Module_05\20190829_6Module\6-ModuleWork\Module.Web\Module.Data\bin\Debug\Module.Data.pdb
+d:\Project\A-level\_Module_05\20190829_6Module\6-ModuleWork\Module.Web\Module.Data\bin\Debug\EntityFramework.dll
+d:\Project\A-level\_Module_05\20190829_6Module\6-ModuleWork\Module.Web\Module.Data\bin\Debug\EntityFramework.SqlServer.dll
+d:\Project\A-level\_Module_05\20190829_6Module\6-ModuleWork\Module.Web\Module.Data\bin\Debug\EntityFramework.xml
+d:\Project\A-level\_Module_05\20190829_6Module\6-ModuleWork\Module.Web\Module.Data\bin\Debug\EntityFramework.SqlServer.xml
+d:\Project\A-level\_Module_05\20190829_6Module\6-ModuleWork\Module.Web\Module.Data\obj\Debug\Module.Data.csprojAssemblyReference.cache
+d:\Project\A-level\_Module_05\20190829_6Module\6-ModuleWork\Module.Web\Module.Data\obj\Debug\Module.Data.csproj.CoreCompileInputs.cache
+d:\Project\A-level\_Module_05\20190829_6Module\6-ModuleWork\Module.Web\Module.Data\obj\Debug\Module.Data.csproj.CopyComplete
+d:\Project\A-level\_Module_05\20190829_6Module\6-ModuleWork\Module.Web\Module.Data\obj\Debug\Module.Data.dll
+d:\Project\A-level\_Module_05\20190829_6Module\6-ModuleWork\Module.Web\Module.Data\obj\Debug\Module.Data.pdb

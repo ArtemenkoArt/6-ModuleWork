@@ -1,0 +1,15 @@
+D:\Project\A-level\_Module_05\20190829_6Module\6-ModuleWork\Module.Web\Module.Logic\bin\Debug\Module.Logic.dll.config
+D:\Project\A-level\_Module_05\20190829_6Module\6-ModuleWork\Module.Web\Module.Logic\bin\Debug\Module.Logic.dll
+D:\Project\A-level\_Module_05\20190829_6Module\6-ModuleWork\Module.Web\Module.Logic\bin\Debug\Module.Logic.pdb
+D:\Project\A-level\_Module_05\20190829_6Module\6-ModuleWork\Module.Web\Module.Logic\bin\Debug\EntityFramework.dll
+D:\Project\A-level\_Module_05\20190829_6Module\6-ModuleWork\Module.Web\Module.Logic\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\A-level\_Module_05\20190829_6Module\6-ModuleWork\Module.Web\Module.Logic\bin\Debug\Module.Data.dll
+D:\Project\A-level\_Module_05\20190829_6Module\6-ModuleWork\Module.Web\Module.Logic\bin\Debug\Module.Data.pdb
+D:\Project\A-level\_Module_05\20190829_6Module\6-ModuleWork\Module.Web\Module.Logic\bin\Debug\Module.Data.dll.config
+D:\Project\A-level\_Module_05\20190829_6Module\6-ModuleWork\Module.Web\Module.Logic\bin\Debug\EntityFramework.xml
+D:\Project\A-level\_Module_05\20190829_6Module\6-ModuleWork\Module.Web\Module.Logic\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\A-level\_Module_05\20190829_6Module\6-ModuleWork\Module.Web\Module.Logic\obj\Debug\Module.Logic.csprojAssemblyReference.cache
+D:\Project\A-level\_Module_05\20190829_6Module\6-ModuleWork\Module.Web\Module.Logic\obj\Debug\Module.Logic.csproj.CoreCompileInputs.cache
+D:\Project\A-level\_Module_05\20190829_6Module\6-ModuleWork\Module.Web\Module.Logic\obj\Debug\Module.Logic.csproj.CopyComplete
+D:\Project\A-level\_Module_05\20190829_6Module\6-ModuleWork\Module.Web\Module.Logic\obj\Debug\Module.Logic.dll
+D:\Project\A-level\_Module_05\20190829_6Module\6-ModuleWork\Module.Web\Module.Logic\obj\Debug\Module.Logic.pdb
